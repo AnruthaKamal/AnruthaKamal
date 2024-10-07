@@ -3,17 +3,13 @@
 ## Hi 👋 I am Anrutha Kamal! 
 I am currently a 5<sup>th</sup> Year MSc Data Science Student at PSG College Of Technology. 
 
-- 🔭 I’m currently working on Machine Learning and Data Analysis
-- 🌱 I’m currently learning Deep Learning and Artificial Intelligencee
+- 🔭Learning to solve real-world problems with Machine Learning and Deep Learning. 
 - 💬 Ask me about Statistics and Machine Learning
 - 👯 I’m looking to collaborate for any hackathons relatated to AI/ML and Data Science
 - 🌐 Visit my [Linkedin website](https://www.linkedin.com/in/anrutha-kamalanathan/) for complete background and contact.
 
 ---
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=AnruthaKamal&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=AnruthaKamal&theme=dark&hide_border=true" width = 400>
-</p>
+
 
 
 
