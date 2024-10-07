@@ -1,7 +1,7 @@
 <a href="[https://www.linkedin.com/in/pratik-kumar04](https://www.linkedin.com/in/anrutha-kamalanathan/)" target="_blank" rel="nofollow"><img align="right" alt="Anrutha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 ## Hi 👋 I am Anrutha Kamal! 
-I am currently a 4<sup>rd</sup> Year MSc Data Science Student at PSG College Of Technology. 
+I am currently a 5<sup>th</sup> Year MSc Data Science Student at PSG College Of Technology. 
 
 - 🔭 I’m currently working on Machine Learning and Data Analysis
 - 🌱 I’m currently learning Deep Learning and Artificial Intelligencee
